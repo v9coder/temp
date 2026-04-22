@@ -1,0 +1,11 @@
+TKT_CUST_ID,F_NAME,L_NAME,DT_OF_BIRTH,GENDER_VAL,EMAIL,MOBILE_NO,FF_NUM
+TKT-1001,Rajesh,Kumar,1985-06-15,M,rajesh.kumar@gmail.com,+91-9876543210,FF-TKT-001
+TKT-1002,Priya,Sharma,1990-03-22,F,priya.sharma@yahoo.com,+91-9823456789,FF-TKT-002
+TKT-1003,Anil,Desai,1978-11-30,M,anil.desai@outlook.com,+91-9845001234,FF-TKT-003
+TKT-1004,Sneha,Patil,1995-07-04,F,sneha.patil@hotmail.com,+91-9012345678,FF-TKT-004
+TKT-1005,Vikram,Joshi,1982-01-19,M,vikram.joshi@gmail.com,+91-9765432101,FF-TKT-005
+TKT-1006,Meena,Nair,1993-09-08,F,meena.nair@gmail.com,+91-9834560011,FF-TKT-006
+TKT-1007,Suresh,Iyer,1970-12-25,M,suresh.iyer@rediffmail.com,+91-9988776655,FF-TKT-007
+TKT-1008,,Mehta,1988-04-11,M,mehta88@gmail.com,+91-9000011112,FF-TKT-008
+TKT-1009,Kavita,Rao,2030-01-01,F,kavita.rao@gmail.com,+91-9111222333,FF-TKT-009
+TKT-1010,Rajash,Cumar,1985-06-15,M,rajesh.kumar@gmail.com,+91-9876543210,FF-TKT-010
